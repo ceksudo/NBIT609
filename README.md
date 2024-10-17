@@ -1,4 +1,4 @@
-# NBIT609
+# Diff Prog Research Gaming
 Differentiable Programming 
 
 # Recommended book and papers for the course
